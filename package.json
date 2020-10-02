@@ -14,10 +14,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@hubspot/api-client": "^3.0.1",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "helmet": "^3.23.3",
+    "hubspot": "^2.3.13",
     "morgan": "^1.10.0",
     "uuid": "^3.3.3",
     "winston": "^3.2.1"
